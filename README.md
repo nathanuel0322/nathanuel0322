@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Nathanuel!
-
 ## About Me
 A driven and ambitious software engineer with a strong passion for gaining new experiences and expanding my knowledge base. With a diverse skill set, I have sharpened my abilities through hands-on experience in creating and maintaining multiple websites for small businesses in the Tri-State area. Over the past four years, I have continued to build on this foundation, continually refining and tweaking the sites as my skill set grows.
 
